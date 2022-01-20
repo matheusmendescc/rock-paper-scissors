@@ -2,7 +2,7 @@
 
 > Status: Em desenvolvimento ⚠
 
-<h3>Esta é uma aplicação em Python do jogo Pedra, Papel e Tesoura</h3>
+<h3>Esta é uma aplicação em Python do jogo Pedra, Papel ou Tesoura</h3>
 Para prática🤓
 
 <h2>Tecnologias Usadas</h2>
